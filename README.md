@@ -8,4 +8,4 @@
 - 🖥️ Estudante de ADS
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju019)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju019&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
