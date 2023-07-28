@@ -7,7 +7,11 @@
 - 😉 Pronomes: Ela/Dela
 - 🖥️ Estudante de ADS
 
+
 ##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju019&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![julia](https://github.com/ju019/ju019/assets/140768491/f4e81d76-ca2e-46b2-a043-886878efe8bd)
 
 
 ##
