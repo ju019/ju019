@@ -3,8 +3,8 @@
 
 ##
 
--🖥️ Estudante de ADS
--😉 Pronomes: Ela/Dela
 - Contato: lourencojulia822@gmail.com
+- 😉 Pronomes: Ela/Dela
+- 🖥️ Estudante de ADS
 
 ##
