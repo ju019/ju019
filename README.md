@@ -1,4 +1,4 @@
-### Eii ! aqui é a Júlia R. Lourenço
+### Oii ! aqui é a Júlia R. Lourenço
 
 
 ##
@@ -8,7 +8,7 @@
 - 🖥️ Estudante de ADS
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju019&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##
 <div>
