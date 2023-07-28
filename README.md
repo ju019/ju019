@@ -1,8 +1,7 @@
-### Oii ! aqui é a Júlia R. Lourenço
-## <div >
-  <img src ="https://github.com/ju019/ju019/assets/140768491/f4e81d76-ca2e-46b2-a043-886878efe8bd" width="200" height="200">
-
+### Oii ! aqui é a Júlia R. Lourenço <div>
+<img src ="https://github.com/ju019/ju019/assets/140768491/f4e81d76-ca2e-46b2-a043-886878efe8bd" width="100" height="100">
 </div>
+
 
 
 
